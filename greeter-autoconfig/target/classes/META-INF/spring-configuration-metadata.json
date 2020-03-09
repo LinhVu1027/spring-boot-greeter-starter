@@ -1,0 +1,37 @@
+{
+  "groups": [
+    {
+      "name": "cloud.greeter",
+      "type": "com.cloud.greeter.autoconfig.GreeterProperties",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cloud.greeter.afternoon-message",
+      "type": "java.lang.String",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    },
+    {
+      "name": "cloud.greeter.evening-message",
+      "type": "java.lang.String",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    },
+    {
+      "name": "cloud.greeter.morning-message",
+      "type": "java.lang.String",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    },
+    {
+      "name": "cloud.greeter.night-message",
+      "type": "java.lang.String",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    },
+    {
+      "name": "cloud.greeter.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.cloud.greeter.autoconfig.GreeterProperties"
+    }
+  ],
+  "hints": []
+}
